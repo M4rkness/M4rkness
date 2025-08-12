@@ -1,6 +1,6 @@
-# Привет!👋 ***Меня зовут Диас***
+# Hi there!👋 ***My name is Dias***
 
-💻 **Python Backend Developer**  
+💻 **I code with:**  
 
 
 ###
@@ -20,6 +20,6 @@
 ###
 
 
-📫 **Контакты**:
+📫 **Contacts**:
 - Email: lxmberk@mail.ru
 - Telegram: [@lxmberk](https://t.me/lxmberk)
